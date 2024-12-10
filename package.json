@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-app",
+  "name": "mongo-db-task",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
